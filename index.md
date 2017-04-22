@@ -4,12 +4,10 @@
 * [Student learning outcomes](#student-learning-outcomes)
 * [Assumed knowledge](#assumed-knowledge)
 * [Course staff](#course-staff)
-* [Course details](#course-details)
 * [Course resources](#course-resources)
 * [Teaching rationale](#teaching-rationale)
 * [Teaching strategies](#teaching-strategies)
 * [Assessment](#assessment)
-* [Academic honesty and plagiarism](#academic-honesty-and-plagiarism)
 * [Course evaluation and development](#course-evaluation-and-development)
 
 # Course aims
@@ -265,19 +263,6 @@ You will be asked to solve a series of problems using C++, and will need access 
 Exam correctness is evaluated through auto-marking. Be sure to regularly submit your work, as any submissions made after the three-hour allotted time period will be ignored.
 
 **The lab exam is a hurdle requirement: you must pass the final exam to pass the course.**
-
-## Academic honesty and plagiarism
-
-Plagiarism is defined as "using the words or ideas of others and presenting them as your own."
-
-This course treats plagiarism as academic misconduct, which means that it carries penalties as severe as being excluded from further study at UNSW. There are several online sources to help you understand what plagiarism is, and how it is dealt with at UNSW.
-
-* Learning Centre: [Academic integrity & plagiarism](http://www.lc.unsw.edu.au/academic-integrity-plagiarism)
-* myUNSW: [plagiarism](https://student.unsw.edu.au/plagiarism) and [misconduct](https://student.unsw.edu.au/conduct)
-* CSE: [Addendum to UNSW Plagiarism Guidelines](http://www.cse.unsw.edu.au/~chak/plagiarism/plagiarism.html)
-* CSE: [Yellow Form](http://www.cse.unsw.edu.au/people/studentoffice/policies/yellowform.html)
-
-Make sure that you read and understand these. Ignorance is not accepted as an excuse for plagiarism.
 
 ## Course evaluation and development
 
